@@ -1,0 +1,7 @@
+*.depend
+*.cbp
+*.layout
+bin/
+include/
+obj/
+src/
